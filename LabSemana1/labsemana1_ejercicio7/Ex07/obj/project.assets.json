@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\AyED\\LaboratorioAyED\\labsemana1_ejercicio7\\Ex07\\Ex07.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\AyED\\LaboratorioAyED\\LabSemana1\\labsemana1_ejercicio7\\Ex07\\Ex07.csproj",
       "projectName": "Ex07",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\AyED\\LaboratorioAyED\\labsemana1_ejercicio7\\Ex07\\Ex07.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\AyED\\LaboratorioAyED\\LabSemana1\\labsemana1_ejercicio7\\Ex07\\Ex07.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\AyED\\LaboratorioAyED\\labsemana1_ejercicio7\\Ex07\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\AyED\\LaboratorioAyED\\LabSemana1\\labsemana1_ejercicio7\\Ex07\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
